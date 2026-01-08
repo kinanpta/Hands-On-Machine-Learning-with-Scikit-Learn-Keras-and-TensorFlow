@@ -1,4 +1,4 @@
-# 💜 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+# Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-9B7EDC?style=for-the-badge&logo=python&logoColor=white">
@@ -48,5 +48,5 @@ Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/
 ---
 
 <p align="center">
-<i>Created by Kinan</i>
+<i>💜Created by kinanpta💜</i>
 </p>
