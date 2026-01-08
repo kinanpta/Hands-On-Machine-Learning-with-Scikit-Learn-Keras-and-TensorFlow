@@ -47,8 +47,8 @@ Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/
 
 ---
 
-> 📓 **Note:** GitHub renders Jupyter Notebooks with a light background by default.  
-> For best viewing experience, open the notebook locally using VS Code or Jupyter.
+> **Note:** *GitHub renders Jupyter Notebooks with a light background by default.*  
+> *For best viewing experience, open the notebook locally using VS Code or Jupyter.*
 
 ---
 
