@@ -24,12 +24,15 @@ Each notebook includes:
 ---
 
 ## 🧩 Structure
-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow
+
+```text
+Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/
 │
-├── Part1_Fundamentals
-├── Part2_DeepLearning
+├── Part1_Fundamentals/
+├── Part2_DeepLearning/
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
